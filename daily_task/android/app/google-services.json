@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256228565864",
+    "firebase_url": "https://daily-tasks-8a353.firebaseio.com",
+    "project_id": "daily-tasks-8a353",
+    "storage_bucket": "daily-tasks-8a353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256228565864:android:c18b57b9445d46fdc06cdd",
+        "android_client_info": {
+          "package_name": "com.example.daily_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256228565864-97qbd60r8skj4c9ummsfac2a5q3hnp46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUrImS7HZ73mqzYyomLgGG9KS73NDr9Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256228565864-97qbd60r8skj4c9ummsfac2a5q3hnp46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
